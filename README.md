@@ -62,5 +62,8 @@ A simple yet powerful web application to publish, manage, and display news artic
 ---
 
 ## Conclusion
-- I hereby submit my work here.
-- By Mushafina R.
+This Django News Publishing Platform is a secure, clean, and customizable solution for managing news articles with user-level access control. Whether you're an admin managing public content or a user writing personal articles, the system is designed to be simple and effective.
+
+> **Project developed by Mushafina R** as part of a Django learning and development project.
+
+---
